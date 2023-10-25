@@ -12,4 +12,4 @@ Machine Learning Analysis of Credit Card Approval
  loan is payed off on time by a client. This objective
  is carried forward through classification,
  one of the main techniques utilized inMachine
- Learning
+ Learning.
