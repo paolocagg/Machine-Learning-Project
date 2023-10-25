@@ -6,7 +6,7 @@ Machine Learning Analysis of Credit Card Approval
  decide to grant a credit card or not. This decision is made on the basis of several factors.
  The goal of this research is the identification
  of those clients that, based on their financial
- history, could end up being a bad investment for thebank. in this paper,we want to investigate 
+ history, could end up being a bad investment for thebank.In this paper, We want to investigate 
  and understand which are the variables
  that have an important role in determining if a
  loan is payed off on time by a client. This objective
